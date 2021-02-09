@@ -1,6 +1,8 @@
 # RingLight
 A CircuitPython-powered Ring Light for a Webcam
 
+![](https://github.com/SouthernFriedScientist/RingLight/blob/main/ADT_0431.jpg)
+
 You could buy a ring light to provide the best possible light source for looking good on a webcam, but why buy something when you can spend several hours soldering and coding your own custom, addressable, RGBW ring light.
 
 The good nerds at Southern Fried Science are here for you. I spent the last month polishing up my coding, soldering, design, and 3D-printing skills to bring you a 3D-printed, DIY ring light that you can build and code yourself.

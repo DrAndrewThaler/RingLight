@@ -27,6 +27,7 @@ Mount works on a [Logitech C920-style](https://amzn.to/3aLuoJ2) HD Webcam, but c
 - [M3 x 20mm Socket Head Cap Screw](https://amzn.to/2OdD5E6)
 
 Full build instructions can be found here: [Build Your Own 3D-printed Ring Light to Upgrade Your Remote Meetings](http://www.southernfriedscience.com/build-your-own-3d-printed-ring-light-to-upgrade-your-remote-meetings/)
+
 Also on Thingiverse: [DIY Ring Light](https://www.thingiverse.com/thing:4756441)
 
 ## Support
